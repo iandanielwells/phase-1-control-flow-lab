@@ -3,9 +3,9 @@ function scuberGreetingForFeet(){
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
+  return NYC ? 'Ok, sounds good.' : 'No go.';
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
+ 
 }
